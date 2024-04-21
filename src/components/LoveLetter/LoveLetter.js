@@ -35,7 +35,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        mah dear kundanapu bomma Deepu🖤,<br />
+        My dear kundanapu bomma Deepu🖤,<br />
         never have i been so blessed as to fall in love with someone as wonderful as you...<br />i loveeee youuuu :)<br />
         always yours,<br />
         @Ashok
